@@ -1,0 +1,60 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conteudo": "Let's bora aprender Dart!",
+      "autoria": "Dev",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "conteudo": "Logo irei começar a estudar C#",
+      "autoria": "Juan",
+      "modelo": "modelo2",
+      "favorito": false,
+      "id": 2
+    },
+    {
+      "conteudo": "Dev in processing...",
+      "autoria": "My mind",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "conteudo": "IAs will be the future",
+      "autoria": "Dev",
+      "modelo": "modelo3",
+      "favorito": false
+    },
+    {
+      "conteudo": "Flutter é muito interessante!",
+      "autoria": "Juan",
+      "modelo": "modelo1",
+      "favorito": true,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "conteudo": "React ou Next.js ?",
+      "autoria": "Dev",
+      "modelo": "modelo2",
+      "favorito": true
+    },
+    {
+      "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ",
+      "autoria": "Dev",
+      "modelo": "modelo2",
+      "favorito": true,
+      "id": 7
+    },
+    {
+      "conteudo": "Bora codar !",
+      "autoria": "Juan",
+      "modelo": "modelo3",
+      "favorito": true,
+      "id": 8
+    }
+  ]
+}
