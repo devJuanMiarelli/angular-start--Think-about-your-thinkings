@@ -1,13 +1,12 @@
-# Memoteca
+=======
+# Think about your thinkings
+Projeto inicial em Angular, para conhecer o framework, fluxo de dados, diretivas, Router e HTTPS, e comunicação com o back-end; API local node.
 
-Os conceitos apreendidos foram:
+-Router;
+-HTTPClient;
+-ReactiveForms.
 
--Início no Angular;
--Fluxo de dados;
--Navegação com roteamento;
--Diretivas;
--Comunicação com o Backend;
--Requisições HTTP.
+>>>>>>> origin/main
 
 <!-- This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
 
